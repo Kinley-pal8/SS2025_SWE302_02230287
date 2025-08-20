@@ -166,7 +166,7 @@ src/
 
 - **Main Documentation:** This README.md
 - **Detailed Test Report:** [`README_TEST_REPORT.md`](./README_TEST_REPORT.md)
-- **Test Implementation:** [`TEST_SUMMARY.md`](./TEST_SUMMARY.md)
+
 
 ---
 
