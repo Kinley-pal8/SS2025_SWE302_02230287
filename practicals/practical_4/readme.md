@@ -345,9 +345,9 @@ sg.edu.nus.iss:cicd-demo:jar:0.0.1-SNAPSHOT
 ## Evidence and Documentation
 
 ### Test Execution Evidence
-![Test Results Screenshot](/practical_4/screenshot/1.png)
-![Test Results Screenshot](/practical_4/screenshot/2.png)
-![Test Results Screenshot](/practical_4/screenshot/3.png)
+![Test Results Screenshot](/practicals/practical_4/screenshot/1.png)
+![Test Results Screenshot](/practicals/practical_4/screenshot/2.png)
+![Test Results Screenshot](/practicals/practical_4/screenshot/3.png)
 
 ## 📋 Conclusion
 
