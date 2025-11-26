@@ -1,8 +1,8 @@
 # Practical 4b Report: DAST with OWASP ZAP in GitHub Actions
 
-**Student:** Kinley-pal8  
-**Module:** SWE302 Software Engineering Methodologies  
-**Date:** September 27, 2025 
+**Student:** Kinley Palden  
+**Module:** SWE302 Software Testing & Quality Assurance  
+**Date:** September 27, 2025
 **GitHub Repository:** [https://github.com/Kinley-pal8/cicd-demozap](https://github.com/Kinley-pal8/cicd-demozap)
 
 ---

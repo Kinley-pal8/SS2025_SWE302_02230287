@@ -1,7 +1,7 @@
 # Practical 4 Report: Integrating SAST with Snyk in GitHub Actions
 
-**Student:** Kinley-pal8  
-**Module:** SWE302 Software Engineering Methodologies  
+**Student:** Kinley Palden  
+**Module:** SWE302 Software Testing & Quality Assurance  
 **Date:** September 24, 2025  
 **GitHub Repository:** [https://github.com/Kinley-pal8/cicd-demo](https://github.com/Kinley-pal8/cicd-demo)
 

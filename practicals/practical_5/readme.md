@@ -1,8 +1,8 @@
 # Practical 5 Report: Integration Testing with TestContainers
 
-**Student:** Kinley-pal8  
-**Module:** SWE302 Software Engineering Methodologies  
-**Date:** October 8, 2025    
+**Student:** Kinley Palden  
+**Module:** SWE302 Software Testing & Quality Assurance  
+**Date:** October 8, 2025  
 **GitHub Repository:** [https://github.com/Kinley-pal8/Swe302_p5](https://github.com/Kinley-pal8/Swe302_p5)
 
 ---

@@ -1,7 +1,7 @@
 # Practical 8 Report: GUI Testing with Cypress
 
-**Student:** Kinley-pal8  
-**Module:** SWE302 Software Engineering Methodologies  
+**Student:** Kinley Palden  
+**Module:** SWE302 Software Testing & Quality Assurance  
 **Date:** October 29, 2025
 **GitHub Repository:** [https://github.com/Kinley-pal8/Swe302_p8](https://github.com/Kinley-pal8/Swe302_p8)
 

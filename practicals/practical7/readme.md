@@ -1,7 +1,7 @@
 # Practical 7 Report: Performance Testing with k6
 
-**Student:** Kinley-pal8  
-**Module:** SWE302 Software Engineering Methodologies  
+**Student:** Kinley Palden  
+**Module:** SWE302 Software Testing & Quality Assurance  
 **Date:** November 26, 2025  
 **GitHub Repository:** [https://github.com/Kinley-pal8/Swe302_p7](https://github.com/Kinley-pal8/Swe302_p7)
 

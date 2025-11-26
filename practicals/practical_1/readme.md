@@ -1,5 +1,11 @@
 # React Quiz Application - Test Report & Executive Summary
 
+**Student:** Kinley Palden  
+**Module:** SWE302 Software Testing & Quality Assurance
+**Repository:** [kpreactquiz](https://github.com/Kinley-pal8/kpreactquiz) | **Owner:** Kinley-pal8 | **Branch:** main
+
+---
+
 ## Project Overview
 
 This repository contains a React-based quiz application (Kahoot clone) with comprehensive automated testing. This document serves as both project documentation and test report.
@@ -168,5 +174,3 @@ src/
 - **Detailed Test Report:** [`README_TEST_REPORT.md`](./README_TEST_REPORT.md)
 
 ---
-
-**Repository:** [kpreactquiz](https://github.com/Kinley-pal8/kpreactquiz) | **Owner:** Kinley-pal8 | **Branch:** main

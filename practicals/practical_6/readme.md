@@ -1,7 +1,7 @@
 # Practical 6 Report: Infrastructure as Code Security with Terraform and Trivy
 
-**Student:** Kinley-pal8  
-**Module:** SWE302 Software Engineering Methodologies  
+**Student:** Kinley Palden  
+**Module:** SWE302 Software Testing & Quality Assurance  
 **Date:** October 21, 2025  
 **GitHub Repository:** [https://github.com/Kinley-pal8/SWS302_p6](https://github.com/Kinley-pal8/SWS302_p6)
 
@@ -1199,4 +1199,3 @@ aws kms list-aliases --key-id alias/practical6-s3-key-dev
 - [COMPLETE] Learning outcomes and skills development
 - [COMPLETE] Appendices with complete reference material
 - [COMPLETE] Professional formatting and organization
-

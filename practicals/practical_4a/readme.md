@@ -1,7 +1,7 @@
 # Practical 4a Report: Integrating SAST with SonarCloud in GitHub Actions
 
-**Student:** Kinley-pal8  
-**Module:** SWE302 Software Engineering Methodologies  
+**Student:** Kinley Palden  
+**Module:** SWE302 Software Testing & Quality Assurance  
 **Date:** September 26, 2025  
 **GitHub Repository:** [https://github.com/Kinley-pal8/cicd-demosk](https://github.com/Kinley-pal8/cicd-demosk)
 
@@ -180,14 +180,14 @@ Continuous Quality Monitoring
 ### Screenshots Provided
 
 #### SonarCloud SAST Scan Results
-![SonarCloud SAST Scan](./screenshots/image.png)
-*Successful Static Application Security Testing scan integrated with GitHub Actions*
 
+![SonarCloud SAST Scan](./screenshots/image.png)
+_Successful Static Application Security Testing scan integrated with GitHub Actions_
 
 #### SonarCloud Quality Dashboard
-![SonarCloud Quality Dashboard](./screenshots/image1.png)
-*Complete quality metrics showing Grade A security, reliability, and 93.3% code coverage*
 
+![SonarCloud Quality Dashboard](./screenshots/image1.png)
+_Complete quality metrics showing Grade A security, reliability, and 93.3% code coverage_
 
 ## Conclusion
 
